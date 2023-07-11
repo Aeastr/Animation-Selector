@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		9A7638242A5DD37200784C15 /* AnimationsExamplesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7638232A5DD37200784C15 /* AnimationsExamplesApp.swift */; };
-		9A7638262A5DD37200784C15 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7638252A5DD37200784C15 /* Item.swift */; };
 		9A7638282A5DD37200784C15 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7638272A5DD37200784C15 /* ContentView.swift */; };
 		9A76382A2A5DD37500784C15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A7638292A5DD37500784C15 /* Assets.xcassets */; };
 		9A76382E2A5DD37500784C15 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A76382D2A5DD37500784C15 /* Preview Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		9A7638202A5DD37200784C15 /* AnimationsExamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationsExamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A7638232A5DD37200784C15 /* AnimationsExamplesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsExamplesApp.swift; sourceTree = "<group>"; };
-		9A7638252A5DD37200784C15 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		9A7638272A5DD37200784C15 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9A7638292A5DD37500784C15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A76382B2A5DD37500784C15 /* AnimationsExamples.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AnimationsExamples.entitlements; sourceTree = "<group>"; };
@@ -57,12 +55,11 @@
 			isa = PBXGroup;
 			children = (
 				9A7638232A5DD37200784C15 /* AnimationsExamplesApp.swift */,
-				9A7638252A5DD37200784C15 /* Item.swift */,
+				9A7638342A5DD38200784C15 /* AnimationSelector.swift */,
 				9A7638272A5DD37200784C15 /* ContentView.swift */,
 				9A7638292A5DD37500784C15 /* Assets.xcassets */,
 				9A76382B2A5DD37500784C15 /* AnimationsExamples.entitlements */,
 				9A76382C2A5DD37500784C15 /* Preview Content */,
-				9A7638342A5DD38200784C15 /* AnimationSelector.swift */,
 			);
 			path = AnimationsExamples;
 			sourceTree = "<group>";
@@ -145,7 +142,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9A7638262A5DD37200784C15 /* Item.swift in Sources */,
 				9A7638242A5DD37200784C15 /* AnimationsExamplesApp.swift in Sources */,
 				9A7638282A5DD37200784C15 /* ContentView.swift in Sources */,
 				9A7638352A5DD38200784C15 /* AnimationSelector.swift in Sources */,
@@ -278,7 +274,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"AnimationsExamples/Preview Content\"";
-				DEVELOPMENT_TEAM = 63WMPH7ZT8;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -316,7 +312,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"AnimationsExamples/Preview Content\"";
-				DEVELOPMENT_TEAM = 63WMPH7ZT8;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;

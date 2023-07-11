@@ -6,11 +6,9 @@
 //
 
 import SwiftUI
-import SwiftData
 
 @main
 struct AnimationsExamplesApp: App {
-
     var body: some Scene {
         WindowGroup {
             AnimationsView()
