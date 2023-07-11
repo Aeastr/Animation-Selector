@@ -8,7 +8,7 @@ You can customize the Animation Selector to suit your app's specific requirement
 To learn how to use and integrate the Animation Selector component in your SwiftUI project, you can follow the step-by-step tutorial available [here](https://www.craft.me/s/JZTS7H2TLxMAoh).
 
 ## License
-Animation Selector is released under the MIT License.
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## Disclaimer
 
