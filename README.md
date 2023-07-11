@@ -1,11 +1,15 @@
 # Animation Selector
 
-Animation Selector is an open-source SwiftUI component that provides an interactive interface for selecting different animation modes within your iOS apps. It allows users to choose from a set of predefined animation modes and provides smooth transitions between them.
+Animation Selector is an open-source SwiftUI example that provides an interactive interface for selecting different animation modes within iOS apps. This example allows users to choose from a set of predefined animation modes and provides smooth transitions between them.
+You can customize the Animation Selector to suit your app's specific requirements. 
 
-## Features
+## Tutorial
 
-- Choose from various animation modes: enabled, reduced, disabled, and extra.
-- Smooth and interactive animation transitions between modes.
-- Designed to work seamlessly with SwiftUI applications.
-- Supports light and dark color schemes.
-- Easily customizable to match your app's design.
+To learn how to use and integrate the Animation Selector component in your SwiftUI project, you can follow the step-by-step tutorial available [here](https://www.craft.me/s/JZTS7H2TLxMAoh).
+
+## License
+Animation Selector is released under the MIT License.
+
+## Notice
+
+This will be availible as a fully customisalbe component at a later date
