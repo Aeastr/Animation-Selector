@@ -9,6 +9,10 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        AnimationsView()
+        VStack{
+            AnimationsView()
+            
+            AnimationSelectorVertical()
+        }
     }
 }

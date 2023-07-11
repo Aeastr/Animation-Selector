@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A6656492A5DF88B00DA738C /* AnimationSelectorVertical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A6656482A5DF88B00DA738C /* AnimationSelectorVertical.swift */; };
 		9A7638242A5DD37200784C15 /* AnimationsExamplesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7638232A5DD37200784C15 /* AnimationsExamplesApp.swift */; };
 		9A7638282A5DD37200784C15 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7638272A5DD37200784C15 /* ContentView.swift */; };
 		9A76382A2A5DD37500784C15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A7638292A5DD37500784C15 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A6656482A5DF88B00DA738C /* AnimationSelectorVertical.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationSelectorVertical.swift; sourceTree = "<group>"; };
 		9A7638202A5DD37200784C15 /* AnimationsExamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationsExamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A7638232A5DD37200784C15 /* AnimationsExamplesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsExamplesApp.swift; sourceTree = "<group>"; };
 		9A7638272A5DD37200784C15 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				9A7638232A5DD37200784C15 /* AnimationsExamplesApp.swift */,
 				9A7638342A5DD38200784C15 /* AnimationSelector.swift */,
+				9A6656482A5DF88B00DA738C /* AnimationSelectorVertical.swift */,
 				9A7638272A5DD37200784C15 /* ContentView.swift */,
 				9A7638292A5DD37500784C15 /* Assets.xcassets */,
 				9A76382B2A5DD37500784C15 /* AnimationsExamples.entitlements */,
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A7638242A5DD37200784C15 /* AnimationsExamplesApp.swift in Sources */,
+				9A6656492A5DF88B00DA738C /* AnimationSelectorVertical.swift in Sources */,
 				9A7638282A5DD37200784C15 /* ContentView.swift in Sources */,
 				9A7638352A5DD38200784C15 /* AnimationSelector.swift in Sources */,
 			);
