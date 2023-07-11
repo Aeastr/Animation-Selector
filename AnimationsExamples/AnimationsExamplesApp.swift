@@ -13,8 +13,7 @@ struct AnimationsExamplesApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AnimationsView()
         }
-        .modelContainer(for: Item.self)
     }
 }

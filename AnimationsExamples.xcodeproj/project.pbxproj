@@ -12,6 +12,7 @@
 		9A7638282A5DD37200784C15 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7638272A5DD37200784C15 /* ContentView.swift */; };
 		9A76382A2A5DD37500784C15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A7638292A5DD37500784C15 /* Assets.xcassets */; };
 		9A76382E2A5DD37500784C15 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A76382D2A5DD37500784C15 /* Preview Assets.xcassets */; };
+		9A7638352A5DD38200784C15 /* AnimationSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7638342A5DD38200784C15 /* AnimationSelector.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9A7638292A5DD37500784C15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A76382B2A5DD37500784C15 /* AnimationsExamples.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AnimationsExamples.entitlements; sourceTree = "<group>"; };
 		9A76382D2A5DD37500784C15 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9A7638342A5DD38200784C15 /* AnimationSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationSelector.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				9A7638292A5DD37500784C15 /* Assets.xcassets */,
 				9A76382B2A5DD37500784C15 /* AnimationsExamples.entitlements */,
 				9A76382C2A5DD37500784C15 /* Preview Content */,
+				9A7638342A5DD38200784C15 /* AnimationSelector.swift */,
 			);
 			path = AnimationsExamples;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				9A7638262A5DD37200784C15 /* Item.swift in Sources */,
 				9A7638242A5DD37200784C15 /* AnimationsExamplesApp.swift in Sources */,
 				9A7638282A5DD37200784C15 /* ContentView.swift in Sources */,
+				9A7638352A5DD38200784C15 /* AnimationSelector.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
